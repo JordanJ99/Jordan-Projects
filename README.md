@@ -1,2 +1,2 @@
 # Jordan-Projects
-Html5 website and other OOP programming projects
+Html5 website and some OOP projects
